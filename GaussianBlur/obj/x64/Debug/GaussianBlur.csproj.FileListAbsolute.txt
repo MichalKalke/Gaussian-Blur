@@ -1,0 +1,12 @@
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\bin\x64\Debug\GaussianBlur.exe.config
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\bin\x64\Debug\GaussianBlur.exe
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\bin\x64\Debug\GaussianBlur.pdb
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.csprojAssemblyReference.cache
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.GaussBlur.resources
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.Properties.Resources.resources
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.exe
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.pdb
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\bin\x64\Debug\BoxesForGauss.dll
+C:\Users\michal\Desktop\c#\new\GaussianBlur\GaussianBlur\obj\x64\Debug\GaussianBlur.csproj.CopyComplete
